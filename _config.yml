@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ruichun2@illinois.edu"
     - label: "Linkedin"
-      icon: "fab fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/ruichun-liu-085183247/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
