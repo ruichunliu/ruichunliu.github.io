@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/ruichun2.jpg"
   bio              : "PhD Candidate in Marketing"
   location         : "Champaign, IL 61820"
-  email            : "ruichun2@illinois.edu"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
