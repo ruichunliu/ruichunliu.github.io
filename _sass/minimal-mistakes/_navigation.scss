@@ -350,10 +350,10 @@
       position: relative;
       display: inline-block;
       padding: 0.5em 2.5em 0.5em 1em;
-      color: $gray;
+      color: #042754; //$gray;
       font-size: $type-size-6;
       font-weight: bold;
-      border: 1px solid $light-gray;
+      border: 1px solid #042754; //$light-gray;
       border-radius: $border-radius;
       z-index: 20;
       -webkit-transition: 0.2s ease-out;
@@ -369,7 +369,7 @@
         width: 0.75em;
         height: 0.125em;
         line-height: 1;
-        background-color: $gray;
+        background-color: #042754; //$gray;
         -webkit-transition: 0.2s ease-out;
         transition: 0.2s ease-out;
       }
@@ -382,7 +382,7 @@
 
       &:hover {
         color: #fff;
-        border-color: $gray;
+        border-color: #042754; //$gray;
         background-color: mix(white, #000, 20%);
 
         &:before,
