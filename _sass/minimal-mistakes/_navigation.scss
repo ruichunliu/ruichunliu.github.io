@@ -256,12 +256,6 @@
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
       }
-
-      &:hover {
-        text-decoration: underline; // Enables underline on hover
-        text-decoration-color: #042754; // Sets the underline color
-        // Other hover styles like color changes can also be included here
-      }
     }
   }
 
@@ -397,7 +391,6 @@
         }
       }
     }
-
     /* selected*/
     input:checked + label {
       color: white;
@@ -408,7 +401,6 @@
         background-color: #fff;
       }
     }
-
     /* on hover show expand*/
     label:hover:after {
       -webkit-transform: rotate(90deg);
@@ -437,6 +429,7 @@
 
       &:hover {
         text-decoration: underline;
+        text-decoration-color: #042754;
       }
     }
   }
