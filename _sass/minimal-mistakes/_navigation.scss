@@ -384,7 +384,7 @@
         color: #042754;
         border-color: #042754; //$gray;
         background-color: #042754;
-        //mix(white, #000, 20%);
+         //mix(white, #000, 20%);
 
         &:before,
         &:after {
@@ -429,8 +429,8 @@
       }
 
       &:hover {
-        text-decoration: none;
-        text-decoration-color: #042754;
+        text-decoration: underline;
+        color: #042754;
       }
     }
   }
