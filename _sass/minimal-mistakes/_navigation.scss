@@ -256,6 +256,12 @@
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
       }
+
+      &:hover {
+        text-decoration: underline; // Enables underline on hover
+        text-decoration-color: #042754; // Sets the underline color
+        // Other hover styles like color changes can also be included here
+      }
     }
   }
 
@@ -268,8 +274,7 @@
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: $background-color;
-    -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16),
-      0 2px 10px 0 rgba(#000, 0.12);
+    -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
     box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
 
     &.hidden {
