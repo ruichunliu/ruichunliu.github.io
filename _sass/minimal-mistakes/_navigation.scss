@@ -189,6 +189,8 @@
 
     &:hover {
       color: $masthead-link-color-hover;
+      text-decoration: underline; // Enables underline on hover
+      text-decoration-color: #fd5f17; // Sets the underline color
     }
 
     &.site-logo {
