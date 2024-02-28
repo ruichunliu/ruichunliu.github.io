@@ -190,7 +190,7 @@
     &:hover {
       color: $masthead-link-color-hover;
       text-decoration: underline; // Enables underline on hover
-      text-decoration-color: #fd5f17; // Sets the underline color
+      text-decoration-color: #042754; // Sets the underline color
     }
 
     &.site-logo {
@@ -430,8 +430,8 @@
       }
 
       &:hover {
-        text-decoration: underline;
-        text-decoration-color: #042754;
+        //text-decoration: underline;
+        //text-decoration-color: #042754;
       }
     }
   }
