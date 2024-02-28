@@ -35,11 +35,6 @@
 
     a {
       text-decoration: none;
-
-      &:hover {
-        text-decoration: underline;
-        text-decoration-color: #042754; // Custom underline color on hover
-      }
     }
   }
 
@@ -95,3 +90,6 @@
       font-weight: 700;
     }
   }
+
+ }
+
