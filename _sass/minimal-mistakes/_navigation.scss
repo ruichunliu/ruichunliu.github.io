@@ -268,8 +268,8 @@
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: $background-color;
-    -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
-    box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
+    -webkit-box-shadow: 0 2px 4px 0 #042754, 0 2px 10px 0 #042754;
+    box-shadow: 0 2px 4px 0 #042754, 0 2px 10px 0 #042754;
 
     &.hidden {
       display: none;
@@ -395,7 +395,7 @@
     /* selected*/
     input:checked + label {
       color: white;
-      background-color: #042754; //mix(white, #000, 20%);
+      background-color: mix(white, #000, 20%);
 
       &:before,
       &:after {
