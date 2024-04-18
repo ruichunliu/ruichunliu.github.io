@@ -3,7 +3,7 @@ main:
   - title: "Homepage"
     url: https://ruichunliu.github.io/
   - title: "Research"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /research/
   - title: "Teaching"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
