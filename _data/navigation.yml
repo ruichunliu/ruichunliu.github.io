@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Homepage"
-    url: /home/
+    url: https://ruichunliu.github.io/
   - title: "Research"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Teaching"
