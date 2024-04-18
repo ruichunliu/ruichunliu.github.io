@@ -8,6 +8,6 @@ permalink: /
 
 ---
 
-## This website is coming soon.
+ This website is coming soon.
 
 ---
