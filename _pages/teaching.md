@@ -2,6 +2,7 @@
 layout: archive
 permalink: /teaching/
 author_profile: true
+classes: wide
 ---
 
 <style>
