@@ -6,9 +6,7 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   - title: "Awards & Service"
-  #   url: /collection-archive/
+    url: /awards&service/
   # - title: "Sitemap"
   #   url: /sitemap/
