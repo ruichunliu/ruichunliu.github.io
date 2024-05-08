@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /awards_service/
+permalink: /CV/
 author_profile: true
+classes: wide
 ---
 
 <style>
@@ -14,5 +15,3 @@ author_profile: true
 <p>I'm Ruichun Liu, a Ph.D. candidate in Marketing at the Gies College of Business, University of Illinois Urbana-Champaign.</p>
 
 <p>Stay tuned! This website is set to launch this May.</p>
-
-
