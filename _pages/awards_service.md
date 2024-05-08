@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /teaching/
+permalink: /awards_service/
 author_profile: true
 ---
 
