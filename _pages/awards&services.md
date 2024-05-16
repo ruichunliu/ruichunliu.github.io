@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /awards&service/
+permalink: /awards&services/
 author_profile: true
 classes: wide
 ---
