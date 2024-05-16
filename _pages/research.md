@@ -12,8 +12,8 @@ classes: wide
   }
   .section-header {
     font-weight: bold;
-    font-size: 16px;
-    border-bottom: 1px solid #000;
+    font-size: 19px;
+    border-bottom: 1px solid #FD5F17;
     padding-bottom: 5px;
   }
 </style>
