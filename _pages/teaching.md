@@ -14,7 +14,7 @@ classes: wide
   .section-header {
     font-weight: bold;
     font-size: 20px;
-    border-bottom: 1px solid #FD5F17;
+    border-bottom: 2px solid #FD5F17;
     padding-bottom: 5px;
   }
 </style>
