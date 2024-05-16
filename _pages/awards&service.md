@@ -12,7 +12,7 @@ classes: wide
   }
   .section-header {
     font-weight: bold;
-    font-size: 19px;
+    font-size: 20px;
     border-bottom: 1px solid #FD5F17;
     padding-bottom: 5px;
   }
@@ -39,23 +39,20 @@ classes: wide
 
 <p class="section-header">Services</p>
 <ul>
-  <li><strong>Session Chair:</strong>
+<p class="sub-section-header">Session Chair:</p>
     <ul>
       <li>2022 INFORMS Annual Meeting</li>
       <li>2022 AMA Summer Academic Conference</li>
       <li>2021 AIML Conference</li>
       <li>UIUC BA Doctoral Workshop (2021, 2022, 2023, 2024)</li>
     </ul>
-  </li>
-  <li><strong>Member:</strong>
+<p class="sub-section-header">Member:</p>
     <ul>
       <li>AMA</li>
       <li>INFORMS ISMS</li>
     </ul>
-  </li>
-  <li><strong>Ad Hoc Reviewer:</strong> 
+<p class="sub-section-header">Ad Hoc Reviewer:</p>
     <ul>
       <li>2024 AMA Summer Academic Conference</li>
     </ul>
-  </li>
 </ul>
