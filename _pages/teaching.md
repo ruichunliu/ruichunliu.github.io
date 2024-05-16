@@ -6,7 +6,6 @@ classes: wide
 ---
 
 
-
 <style>
   body {
     font-family: Arial;
@@ -15,7 +14,7 @@ classes: wide
   .section-header {
     font-weight: bold;
     font-size: 16px;
-    border-bottom: 1px solid #FD5F17;
+    border-bottom: 1px solid #000;
     padding-bottom: 5px;
     margin-top: 20px;
   }
@@ -42,7 +41,6 @@ classes: wide
   }
 </style>
 
-<p class="section-header">Teaching</p>
 
 <div class="teaching-entry">
   <div><strong>Instructor</strong><br>International Marketing (B.S.)</div>
