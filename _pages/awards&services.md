@@ -21,7 +21,7 @@ classes: wide
 <p class="section-header">Honors and Awards</p>
 <ul>
   <li>2024 AMA-Sheth Doctoral Consortium Fellow, University of Manchester (scheduled), 2024</li>
-  <li>Robert Ferber Award, UIUC, 2024</li>
+  <li>Robert Ferber Dissertation Award, UIUC, 2024</li>
   <li>Joseph E. Zwisler and Ouida Wald Zwisler Summer Doctoral Fellowship, UIUC, 2023</li>
   <li>Haring Symposium Fellow, Indiana University Bloomington, 2023</li>
   <li>Business Administration PhD Block Fellowship Award, UIUC, 2023, 2024</li>

@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /assets/cv/Ruichun_Liu_CV_May_16_2024.pdf
+permalink: /assets/cv/Ruichun_Liu_CV_May_17_2024.pdf
 author_profile: true
 classes: wide
 ---
