@@ -21,7 +21,7 @@ classes: wide
 
 <p class="section-header">Instructor, University of Illinois at Urbana-Champaign</p>
 <ul>
-  <li><a href="https://courses.illinois.edu/schedule/2023/fall/BADM/382" target="_blank">International Marketing (B.S.)</a>, Fall 2023</li>
+  <li><a href="https://courses.illinois.edu/schedule/2023/fall/BADM/382" target="_blank">International Marketing (B.S.)</a>, (4.1/5.0), Fall 2023 </li>
 </ul>
 
 
