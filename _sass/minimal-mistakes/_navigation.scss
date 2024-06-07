@@ -252,6 +252,7 @@
       }
 
       &:hover:before {
+        background: rgb(253, 95, 23); /* Change this to the extracted color */
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
         transform: scaleX(1); // reveal
