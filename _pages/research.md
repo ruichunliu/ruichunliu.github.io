@@ -26,7 +26,7 @@ classes: wide
       <li>Best Paper in the Innovation and New Product Development Track (2022 AMA Summer Conference)</li>
     </ul>
   </li>
-  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, “Generative Artificial Intelligence in Marketing Education: A Conceptual Framework and Research Agenda,” under review, <i>Journal of Public Policy & Marketing</i>.</li>
+  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, “Generative Artificial Intelligence in Marketing Education: A Conceptual Framework and Research Agenda,” revising for resubmission, <i>Journal of Public Policy & Marketing</i>.</li>
 </ul>
 
 <p class="section-header">Selected Research in Progress</p>

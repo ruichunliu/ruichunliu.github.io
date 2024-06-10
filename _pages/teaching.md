@@ -21,18 +21,18 @@ classes: wide
 
 <p class="section-header">Instructor, University of Illinois at Urbana-Champaign</p>
 <ul>
-  <li><a href="https://courses.illinois.edu/schedule/2023/fall/BADM/382" target="_blank">International Marketing (B.S.)</a>, (4.1/5.0), Fall 2023 </li>
+  <li><a href="https://courses.illinois.edu/schedule/2023/fall/BADM/382" target="_blank">International Marketing (Undergraduate)</a>, (4.1/5.0), Fall 2023 </li>
 </ul>
 
 
 <p class="section-header">Teaching Assistant, University of Oklahoma</p>
 <ul>
   <li>Seminar-Macro & Growth Theory (Ph.D.), Spring 2020</li>
-  <li>Intermediate Macroeconomic Theory (B.S.), Spring 2020</li>
+  <li>Intermediate Macroeconomic Theory (Undergraduate), Spring 2020</li>
   <li>Advanced Macro & Growth Theory (Ph.D.), Fall 2019</li>
-  <li>Intermediate Macroeconomic Theory (B.S.), Fall 2019</li>
-  <li>Behavioral and Experimental Economics (B.S.), Spring 2019</li>
-  <li>Governmental Relations to Business (B.S.), Spring 2019</li>
-  <li>Intermediate Microeconomics (B.S.), Fall 2018</li>
-  <li>Managerial Economics (B.S.), Fall 2018</li>
+  <li>Intermediate Macroeconomic Theory (Undergraduate), Fall 2019</li>
+  <li>Behavioral and Experimental Economics (Undergraduate), Spring 2019</li>
+  <li>Governmental Relations to Business (Undergraduate), Spring 2019</li>
+  <li>Intermediate Microeconomics (Undergraduate), Fall 2018</li>
+  <li>Managerial Economics (Undergraduate), Fall 2018</li>
 </ul>

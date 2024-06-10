@@ -20,8 +20,9 @@ classes: wide
 
 <p class="section-header">Honors and Awards</p>
 <ul>
-  <li>2024 AMA-Sheth Doctoral Consortium Fellow, University of Manchester (scheduled), 2024</li>
+  <li>2024 AMA-Sheth Doctoral Consortium Fellow, University of Manchester, 2024</li>
   <li>Robert Ferber Dissertation Award, UIUC, 2024</li>
+  <li>Robert Ferber Award, UIUC, 2024</li>
   <li>Joseph E. Zwisler and Ouida Wald Zwisler Summer Doctoral Fellowship, UIUC, 2023</li>
   <li>Haring Symposium Fellow, Indiana University Bloomington, 2023</li>
   <li>Business Administration PhD Block Fellowship Award, UIUC, 2023, 2024</li>
@@ -39,8 +40,9 @@ classes: wide
 
 <p class="section-header">Services</p>
 <ul>
-<p class="sub-section-header">Session Chair:</p>
+<p class="sub-section-header">Session Chair/Moderator:</p>
     <ul>
+      <li>2024 Theory + Practice of Marketing (TPM) Conference</li>
       <li>2022 INFORMS Annual Meeting</li>
       <li>2022 AMA Summer Academic Conference</li>
       <li>2021 AIML Conference</li>
