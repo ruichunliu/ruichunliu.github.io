@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: https://github.com/ruichunliu/ruichunliu.github.io/tree/master/assets/materials
+permalink: /materials/
 author_profile: true
 classes: wide
 ---
@@ -19,3 +19,13 @@ classes: wide
   }
 </style>
 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://github.com/ruichunliu/ruichunliu.github.io/tree/master/assets/materials">
+    <title>Redirecting...</title>
+</head>
+<body>
+    If you are not redirected automatically, follow this <a href="https://github.com/ruichunliu/ruichunliu.github.io/tree/master/assets/materials">link to the materials</a>.
+</body>
+</html>
