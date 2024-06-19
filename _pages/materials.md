@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /assets/materials/
+permalink: https://github.com/ruichunliu/ruichunliu.github.io/tree/master/assets/materials
 author_profile: true
 classes: wide
 ---
