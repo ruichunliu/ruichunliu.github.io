@@ -27,7 +27,7 @@ classes: wide
       <li>Business for a Better World Dissertation Proposal Competition Winner, 2024</li>
     </ul>
   </li>
-  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, “Generative Artificial Intelligence in Marketing Education: A Conceptual Framework and Research Agenda,” revising for the 2nd round review, <i>Journal of Public Policy & Marketing</i>.</li>
+  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, “When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education,” under 2nd round review, <i>Journal of Public Policy & Marketing</i>.</li>
 </ul>
 
 <p class="section-header">Selected Research in Progress</p>
