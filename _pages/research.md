@@ -27,7 +27,8 @@ classes: wide
       <li>Business for a Better World Dissertation Proposal Competition Winner, 2024</li>
     </ul>
   </li>
-  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, “When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education,” under 2nd round review, <i>Journal of Public Policy & Marketing</i>.</li>
+  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4977421" target="_blank">“When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education”</a>, under 2nd round review, <i>Journal of Public Policy & Marketing</i>.
+  </li>
 </ul>
 
 <p class="section-header">Selected Research in Progress</p>
