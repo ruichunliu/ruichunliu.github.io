@@ -20,6 +20,7 @@ classes: wide
 
 <p class="section-header">Honors and Awards</p>
 <ul>
+  <li>Finalist of ISMS Doctoral Dissertation Award, 2024</li>
   <li>Business for a Better World Dissertation Proposal Competition Winner, Colorado State University, 2024</li>
   <li>2024 AMA-Sheth Doctoral Consortium Fellow, University of Manchester, 2024</li>
   <li>Robert Ferber Dissertation Award, UIUC, 2024</li>
