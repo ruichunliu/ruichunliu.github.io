@@ -28,7 +28,7 @@ classes: wide
       <li>Best Paper in the Innovation and New Product Development Track (2022 AMA Summer Conference)</li>
     </ul>
   </li>
-  <li>Sachdev, Vishal, Unnati Narang and Ruichun Liu, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4977421" target="_blank">“When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education”</a>, under 3rd round review, <i>Journal of Public Policy & Marketing</i>.
+  <li>Narang, Unnati, Vishal Sachdev, and Ruichun Liu, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4977421" target="_blank">“When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education”</a>, conditionally accepted, <i>Journal of Public Policy & Marketing</i>.
   </li>
 </ul>
 

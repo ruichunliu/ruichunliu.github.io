@@ -19,13 +19,8 @@ classes: wide
   }
 </style>
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0; url=https://github.com/ruichunliu/ruichunliu.github.io/tree/master/assets/materials">
-    <title>Redirecting...</title>
-</head>
-<body>
-    If you are not redirected automatically, follow this <a href="https://github.com/ruichunliu/ruichunliu.github.io/tree/master/assets/materials">link to the materials</a>.
-</body>
-</html>
+<div>
+    <p class="section-header">Materials No Longer Available</p>
+    <p>Thank you for your interest in my work. As I have accepted a faculty position, this page is no longer available.  
+    I sincerely appreciate your time and consideration.</p>
+</div>
