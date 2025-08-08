@@ -38,7 +38,7 @@ classes: wide
   </li>
 </ul>
 
-<p class="section-header">Selected Research in Progress</p>
+<p class="section-header">Work in Progress</p>
 <ul>
   <li>Bao, Ying and Ruichun Liu, “Nutrition Label and Price Elasticity: The Impact of Health Claims on Price Sensitivity in the Yogurt Industry,” work in progress.</li>
 </ul>
