@@ -21,7 +21,7 @@ classes: wide
 <p class="section-header">Publications</p>
 <ul>
   <li>
-  Narang, Unnati, Vishal Sachdev, and Ruichun Liu (2025), <a href="https://journals.sagepub.com/doi/full/10.1177/07439156251328237?casa_token=AiZMXtjzdVMAAAAA%3AKI_Oy409Xa81kvT-IYFGz0LvIlwGOqC7k5VJqyGSpSPogM1EncbiY0aTZ6p82miVREqX0DjFNYW_" target="_blank">“When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education,”</a>, <i>Journal of Public Policy & Marketing</i>, 44(3), pp.473-489.
+  Narang, Unnati, Vishal Sachdev, and Ruichun Liu (2025), <a href="https://journals.sagepub.com/doi/full/10.1177/07439156251328237?casa_token=AiZMXtjzdVMAAAAA%3AKI_Oy409Xa81kvT-IYFGz0LvIlwGOqC7k5VJqyGSpSPogM1EncbiY0aTZ6p82miVREqX0DjFNYW_" target="_blank">“When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education,”</a> <i>Journal of Public Policy & Marketing</i>, 44(3), pp.473-489.
   </li>
 </ul>
 
