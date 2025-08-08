@@ -29,7 +29,7 @@ classes: wide
 <p class="section-header">Papers Under Review/Revision</p>
 <ul>
   <li>
-    Liu, Ruichun and Unnati Narang, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075140" target="_blank">“How E-Scooters Impact Shared Mobility and Consumer Safety”</a>, under 3rd round review, <i>Journal of Marketing</i>.
+    Liu, Ruichun and Unnati Narang, <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4075140" target="_blank">“How E-Scooters Impact Shared Mobility and Consumer Safety,”</a> under 3rd round review, <i>Journal of Marketing</i>.
     <ul>
       <li>Finalist of ISMS Doctoral Dissertation Award, 2024</li>
       <li>Business for a Better World Dissertation Proposal Competition Winner, 2024</li>
