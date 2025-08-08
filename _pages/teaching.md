@@ -21,7 +21,7 @@ classes: wide
 
 <p class="section-header">Instructor, San José State University</p>
 <ul>
-  <li><a href="https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=41498" target="_blank">Marketing Management (Undergraduate)</a>,Fall 2025 </li>
+  <li><a href="https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=41498" target="_blank">Marketing Management (Undergraduate)</a>, Fall 2025 </li>
 </ul>
 
 <p class="section-header">Instructor, University of Illinois at Urbana-Champaign</p>
