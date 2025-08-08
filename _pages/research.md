@@ -33,7 +33,7 @@ classes: wide
     <ul>
       <li>Finalist of ISMS Doctoral Dissertation Award, 2024</li>
       <li>Business for a Better World Dissertation Proposal Competition Winner, 2024</li>
-      <li>Best Paper in the Innovation and New Product Development Track (2022 AMA Summer Conference)</li>
+      <li>Best Paper in the Innovation and New Product Development Track (2022 AMA Summer)</li>
     </ul>
   </li>
 </ul>
