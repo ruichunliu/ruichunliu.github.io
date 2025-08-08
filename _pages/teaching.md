@@ -19,6 +19,11 @@ classes: wide
   }
 </style>
 
+<p class="section-header">Instructor, San José State University</p>
+<ul>
+  <li><a href="https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=41498" target="_blank">Marketing Management (Undergraduate)</a>,Fall 2025 </li>
+</ul>
+
 <p class="section-header">Instructor, University of Illinois at Urbana-Champaign</p>
 <ul>
   <li><a href="https://courses.illinois.edu/schedule/2023/fall/BADM/382" target="_blank">International Marketing (Undergraduate)</a>, (4.1/5.0), Fall 2023 </li>
