@@ -35,6 +35,7 @@ classes: wide
       <li>Business for a Better World Dissertation Proposal Competition Winner, 2024</li>
       <li>Best Paper in the Innovation and New Product Development Track (2022 AMA Summer Conference)</li>
     </ul>
+  </li>
 </ul>
 
 <p class="section-header">Selected Research in Progress</p>
