@@ -44,6 +44,7 @@ classes: wide
 <ul>
 <p class="sub-section-header">Session Chair/Moderator:</p>
     <ul>
+      <li>2025 AMA Winter Academic Conference</li>
       <li>2024 Theory + Practice of Marketing (TPM) Conference</li>
       <li>2022 INFORMS Annual Meeting</li>
       <li>2022 AMA Summer Academic Conference</li>
