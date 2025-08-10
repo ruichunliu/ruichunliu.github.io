@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Ruichun Liu"
   avatar           : "/assets/images/ruichun2.jpg"
-  bio              : "PhD Candidate in Marketing"
-  location         : "Champaign, IL 61820"
-  # email            : "ruichun2@illinois.edu"
+  bio              : "Assistant Professor of Marketing"
+  location         : "San José´, CA 95192"
+  # email            : "ruichun.liu@sjsu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ruichun2@illinois.edu"
+      url: "mailto:ruichun.liu@sjsu.edu"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ruichun-liu-085183247/"
