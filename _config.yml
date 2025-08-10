@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Ruichun Liu - Marketing"
 title_separator          : "-"
 subtitle                 : # "what is this" # site tagline that appears below site title in masthead
-name                     : "Ruichun Liu"
+name                     : "劉瑞春"
 description              : "Ruichun Liu - PhD Candidate in Marketing"
 url                      : "https://ruichunliu.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,7 +107,7 @@ author:
   name             : "Ruichun Liu"
   avatar           : "/assets/images/ruichun2.jpg"
   bio              : "Assistant Professor of Marketing"
-  location         : "San José´, CA 95192"
+  location         : "San José, CA 95192"
   # email            : "ruichun.liu@sjsu.edu"
   links:
     - label: "Email"
